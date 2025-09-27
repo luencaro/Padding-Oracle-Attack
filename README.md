@@ -5,10 +5,6 @@
 ## Descripción
 Implementación de un ataque de padding oracle contra AES-CBC con PKCS#7. Este laboratorio demuestra cómo explotar vulnerabilidades en el manejo de padding para recuperar texto plano sin conocer la clave de cifrado.
 
-## Integrantes del Grupo
-- **[Nombre Integrante 1]** - [ID/Email]
-- **[Nombre Integrante 2]** - [ID/Email]
-
 ## Archivos del Proyecto
 - `VulnerableServer.py` - Servidor vulnerable que simula el oracle de padding
 - `Padding-Oracle-Attack.ipynb` - Implementación completa del ataque en Jupyter Notebook
